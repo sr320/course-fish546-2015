@@ -9,7 +9,7 @@ This repository serves as the primary framework for the course. Specifically ple
 
 ---
 
-The code repository is where example analyses will be provided.
+The code repository is where example analyses will be provided. :thumbsup:
 
 ###Files and Directory Structure
 
