@@ -1,0 +1,175 @@
+Haliotis_kam_contig3642	autophagic vacuole formation	stress response	P	Ubiquitin-like protein ATG12 (Autophagy-related protein 12) (APG12-like)
+Haliotis_kam_contig1478	DNA damage checkpoint	stress response	P	Nibrin (Cell cycle regulatory protein p95) (Nijmegen breakage syndrome protein 1)
+Haliotis_kam_contig6762	response to reactive oxygen species	stress response	P	Peroxiredoxin-6 (EC 1.11.1.15) (1-Cys peroxiredoxin) (1-Cys PRX) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.-) (Antioxidant protein 2) (Ciliary body glutathione peroxidase) (Non-selenium glutathione peroxidase) (NSGPx) (EC 1.11.1.9) (PHGPx)
+Haliotis_kam_contig1478	double-strand break repair via homologous recombination	stress response	P	Nibrin (Cell cycle regulatory protein p95) (Nijmegen breakage syndrome protein 1)
+Haliotis_kam_contig7071	DNA double-strand break processing	stress response	P	Histone-lysine N-methyltransferase SETMAR (SET domain and mariner transposase fusion gene-containing protein) (HsMar1) (Metnase) [Includes: Histone-lysine N-methyltransferase (EC 2.1.1.43); Mariner transposase Hsmar1 (EC 3.1.-.-)]
+Haliotis_kam_contig3081	age-dependent response to oxidative stress	stress response	P	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)
+Haliotis_kam_contig2936	age-dependent response to reactive oxygen species during chronological cell aging	stress response	P	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)
+Haliotis_kam_contig61	"regulation of complement activation, lectin pathway"	stress response	P	Fucolectin-1
+Haliotis_kam_contig535	acute inflammatory response	stress response	P	Nuclear protein 1 (Candidate of metastasis 1) (Protein p8)
+Haliotis_kam_contig4342	respiratory burst during acute inflammatory response	stress response	P	Peroxiredoxin-2 (EC 1.11.1.15) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1)
+Haliotis_kam_contig1272	negative regulation of inflammatory response to antigenic stimulus	stress response	P	Proteasome subunit alpha type-1 (EC 3.4.25.1) (Macropain subunit C2) (Multicatalytic endopeptidase complex subunit C2) (Proteasome component C2) (Proteasome nu chain)
+Haliotis_kam_contig4573	negative regulation of inflammatory response to antigenic stimulus	stress response	P	Proteasome subunit beta type-4 (EC 3.4.25.1) (Low molecular mass protein 3) (Macropain beta chain) (Multicatalytic endopeptidase complex beta chain) (Proteasome beta chain) (Proteasome chain 3)
+Haliotis_kam_contig1478	DNA repair	stress response	P	Nibrin (Cell cycle regulatory protein p95) (Nijmegen breakage syndrome protein 1)
+Haliotis_kam_contig2623	DNA repair	stress response	P	Ubiquitin-conjugating enzyme E2 N (EC 6.3.2.19) (Bendless-like ubiquitin-conjugating enzyme) (Ubiquitin carrier protein N) (Ubiquitin-protein ligase N)
+Haliotis_kam_contig2788	DNA repair	stress response	P	BRCA2 and CDKN1A-interacting protein
+Haliotis_kam_contig3120	DNA repair	stress response	P	Ubiquitin carboxyl-terminal hydrolase isozyme L5 (UCH-L5) (EC 3.4.19.12) (Ubiquitin C-terminal hydrolase UCH37) (Ubiquitin thioesterase L5)
+Haliotis_kam_contig446	DNA repair	stress response	P	Transcriptional regulator ATRX (EC 3.6.4.12) (ATP-dependent helicase ATRX) (X-linked helicase II) (X-linked nuclear protein) (XNP)
+Haliotis_kam_contig5031	DNA repair	stress response	P	RuvB-like 2 (EC 3.6.4.12) (p47 protein)
+Haliotis_kam_contig6419	DNA repair	stress response	P	Tyrosyl-DNA phosphodiesterase 2 (Tyr-DNA phosphodiesterase 2) (EC 3.1.4.-) (5'-tyrosyl-DNA phosphodiesterase) (5'-Tyr-DNA phosphodiesterase) (TRAF and TNF receptor-associated protein homolog)
+Haliotis_kam_contig6653	DNA repair	stress response	P	Aprataxin (EC 3.-.-.-) (Forkhead-associated domain histidine triad-like protein) (FHA-HIT) (Fragment)
+Haliotis_kam_contig7071	DNA repair	stress response	P	Histone-lysine N-methyltransferase SETMAR (SET domain and mariner transposase fusion gene-containing protein) (HsMar1) (Metnase) [Includes: Histone-lysine N-methyltransferase (EC 2.1.1.43); Mariner transposase Hsmar1 (EC 3.1.-.-)]
+Haliotis_kam_contig760	DNA repair	stress response	P	40S ribosomal protein S3
+Haliotis_kam_contig3115	"base-excision repair, gap-filling"	stress response	P	Proliferating cell nuclear antigen (PCNA) (Cyclin)
+Haliotis_kam_contig933	"base-excision repair, DNA ligation"	stress response	P	High mobility group protein B2 (High mobility group protein 2) (HMG-2)
+Haliotis_kam_contig3115	mismatch repair	stress response	P	Proliferating cell nuclear antigen (PCNA) (Cyclin)
+Haliotis_kam_contig1478	double-strand break repair	stress response	P	Nibrin (Cell cycle regulatory protein p95) (Nijmegen breakage syndrome protein 1)
+Haliotis_kam_contig6419	double-strand break repair	stress response	P	Tyrosyl-DNA phosphodiesterase 2 (Tyr-DNA phosphodiesterase 2) (EC 3.1.4.-) (5'-tyrosyl-DNA phosphodiesterase) (5'-Tyr-DNA phosphodiesterase) (TRAF and TNF receptor-associated protein homolog)
+Haliotis_kam_contig1003	response to stress	stress response	P	Luc7-like protein 3 (Cisplatin resistance-associated-overexpressed protein)
+Haliotis_kam_contig111	response to stress	stress response	P	Heat shock 70 kDa protein cognate 4 (Hsc 70-4)
+Haliotis_kam_contig1113	response to stress	stress response	P	"Serine/threonine-protein kinase PINK1, mitochondrial (EC 2.7.11.1) (BRPK) (PTEN-induced putative kinase protein 1)"
+Haliotis_kam_contig1314	response to stress	stress response	P	Heat shock protein 70 A2
+Haliotis_kam_contig1335	response to stress	stress response	P	Protein lethal(2)essential for life (Protein Efl21)
+Haliotis_kam_contig1648	response to stress	stress response	P	Heat shock protein HSP 90-alpha
+Haliotis_kam_contig1841	response to stress	stress response	P	Heat shock-like 85 kDa protein
+Haliotis_kam_contig2244	response to stress	stress response	P	Heat shock protein 90 homolog
+Haliotis_kam_contig2429	response to stress	stress response	P	"Isocitrate dehydrogenase [NADP], mitochondrial (IDH) (EC 1.1.1.42) (ICD-M) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)"
+Haliotis_kam_contig2849	response to stress	stress response	P	Heat shock 70 kDa protein 1
+Haliotis_kam_contig2923	response to stress	stress response	P	Heat shock protein 90
+Haliotis_kam_contig4233	response to stress	stress response	P	Heat shock 70 kDa protein (HSP70) (Fragment)
+Haliotis_kam_contig4409	response to stress	stress response	P	Universal stress protein Sll1388 (USP Sll1388)
+Haliotis_kam_contig467	response to stress	stress response	P	RING-box protein 1 (Rbx1) (Hyperosmotic protein 21) (sHOP21)
+Haliotis_kam_contig4836	response to stress	stress response	P	Heat shock 70 kDa protein 1-like (Heat shock 70 kDa protein 1L) (Heat shock 70 kDa protein 3) (HSP70.3)
+Haliotis_kam_contig4852	response to stress	stress response	P	Heat shock protein beta-11 (Hspb11) (Placental protein 25) (PP25)
+Haliotis_kam_contig5517	response to stress	stress response	P	"Isocitrate dehydrogenase [NADP], mitochondrial (IDH) (EC 1.1.1.42) (ICD-M) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)"
+Haliotis_kam_contig5604	response to stress	stress response	P	Translation initiation factor eIF-2B subunit epsilon (eIF-2B GDP-GTP exchange factor subunit epsilon)
+Haliotis_kam_contig5713	response to stress	stress response	P	Heat shock protein 70 A2
+Haliotis_kam_contig5793	response to stress	stress response	P	Heat shock protein HSS1
+Haliotis_kam_contig6060	response to stress	stress response	P	Endoplasmin homolog (Glucose-regulated protein 94 homolog) (GRP-94 homolog) (HSP90-like protein 7) (Protein SHEPHERD)
+Haliotis_kam_contig639	response to stress	stress response	P	Heat shock protein 81-3 (HSP81-3) (Gravity-specific protein GSC 381)
+Haliotis_kam_contig6817	response to stress	stress response	P	Phosphatidylinositol 4-phosphate 5-kinase 1 (AtPIP5K1) (EC 2.7.1.68) (1-phosphatidylinositol 4-phosphate kinase 1) (Diphosphoinositide kinase 1) (PtdIns(4)P-5-kinase 1)
+Haliotis_kam_contig6968	response to stress	stress response	P	Universal stress protein Slr1101 (USP Slr1101)
+Haliotis_kam_contig703	response to stress	stress response	P	Endoplasmin (94 kDa glucose-regulated protein) (GRP-94) (Heat shock protein 90 kDa beta member 1) (Fragment)
+Haliotis_kam_contig7441	response to stress	stress response	P	Heat shock protein 83 (HSP 82) (Fragment)
+Haliotis_kam_contig8247	response to stress	stress response	P	Heat shock 70 kDa protein (HSP70) (Fragment)
+Haliotis_kam_contig8591	response to stress	stress response	P	Ubiquitin-conjugating enzyme E2 4 (EC 6.3.2.19) (Ubiquitin carrier protein 4) (Ubiquitin-protein ligase 4)
+Haliotis_kam_contig366	defense response	stress response	P	"Lysozyme 3 (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase 3) (cv-lysozyme 3)"
+Haliotis_kam_contig639	defense response	stress response	P	Heat shock protein 81-3 (HSP81-3) (Gravity-specific protein GSC 381)
+Haliotis_kam_contig5874	inflammatory response	stress response	P	Interleukin 17-like protein (CgIL-17)
+Haliotis_kam_contig6018	inflammatory response	stress response	P	Aminoacyl tRNA synthase complex-interacting multifunctional protein 1 (Multisynthase complex auxiliary component p43) [Cleaved into: Endothelial monocyte-activating polypeptide 2 (EMAP-2) (Endothelial monocyte-activating polypeptide II) (EMAP-II) (Small inducible cytokine subfamily E member 1)]
+Haliotis_kam_contig7314	positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	stress response	P	Apoptosis 2 inhibitor (IAP homolog A) (IAP-like protein) (ILP) (dILP) (Inhibitor of apoptosis 2) (dIAP2)
+Haliotis_kam_contig7891	positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria	stress response	P	Apoptosis 2 inhibitor (IAP homolog A) (IAP-like protein) (ILP) (dILP) (Inhibitor of apoptosis 2) (dIAP2)
+Haliotis_kam_contig7688	hyperosmotic response	stress response	P	Cysteine proteinase 1 (EC 3.4.22.-)
+Haliotis_kam_contig1478	response to DNA damage stimulus	stress response	P	Nibrin (Cell cycle regulatory protein p95) (Nijmegen breakage syndrome protein 1)
+Haliotis_kam_contig2195	response to DNA damage stimulus	stress response	P	26S proteasome non-ATPase regulatory subunit 4 (26S proteasome regulatory subunit RPN10) (26S proteasome regulatory subunit S5A) (54 kDa subunit of mu particle) (Multiubiquitin chain-binding protein) (p54)
+Haliotis_kam_contig2623	response to DNA damage stimulus	stress response	P	Ubiquitin-conjugating enzyme E2 N (EC 6.3.2.19) (Bendless-like ubiquitin-conjugating enzyme) (Ubiquitin carrier protein N) (Ubiquitin-protein ligase N)
+Haliotis_kam_contig2788	response to DNA damage stimulus	stress response	P	BRCA2 and CDKN1A-interacting protein
+Haliotis_kam_contig3120	response to DNA damage stimulus	stress response	P	Ubiquitin carboxyl-terminal hydrolase isozyme L5 (UCH-L5) (EC 3.4.19.12) (Ubiquitin C-terminal hydrolase UCH37) (Ubiquitin thioesterase L5)
+Haliotis_kam_contig346	response to DNA damage stimulus	stress response	P	26S protease regulatory subunit 4 (P26s4)
+Haliotis_kam_contig4083	response to DNA damage stimulus	stress response	P	Ras-like GTP-binding protein Rho1
+Haliotis_kam_contig446	response to DNA damage stimulus	stress response	P	Transcriptional regulator ATRX (EC 3.6.4.12) (ATP-dependent helicase ATRX) (X-linked helicase II) (X-linked nuclear protein) (XNP)
+Haliotis_kam_contig5031	response to DNA damage stimulus	stress response	P	RuvB-like 2 (EC 3.6.4.12) (p47 protein)
+Haliotis_kam_contig5822	response to DNA damage stimulus	stress response	P	26S protease regulatory subunit 4 (P26s4)
+Haliotis_kam_contig6419	response to DNA damage stimulus	stress response	P	Tyrosyl-DNA phosphodiesterase 2 (Tyr-DNA phosphodiesterase 2) (EC 3.1.4.-) (5'-tyrosyl-DNA phosphodiesterase) (5'-Tyr-DNA phosphodiesterase) (TRAF and TNF receptor-associated protein homolog)
+Haliotis_kam_contig6653	response to DNA damage stimulus	stress response	P	Aprataxin (EC 3.-.-.-) (Forkhead-associated domain histidine triad-like protein) (FHA-HIT) (Fragment)
+Haliotis_kam_contig6721	response to DNA damage stimulus	stress response	P	Protein BTG2 (BTG family member 2) (NGF-inducible anti-proliferative protein PC3)
+Haliotis_kam_contig7071	response to DNA damage stimulus	stress response	P	Histone-lysine N-methyltransferase SETMAR (SET domain and mariner transposase fusion gene-containing protein) (HsMar1) (Metnase) [Includes: Histone-lysine N-methyltransferase (EC 2.1.1.43); Mariner transposase Hsmar1 (EC 3.1.-.-)]
+Haliotis_kam_contig760	response to DNA damage stimulus	stress response	P	40S ribosomal protein S3
+Haliotis_kam_contig8463	response to DNA damage stimulus	stress response	P	12 kDa FK506-binding protein (FKBP) (EC 5.2.1.8) (Macrolide-binding protein) (Peptidyl-prolyl cis-trans isomerase) (PPIase) (Rotamase)
+Haliotis_kam_contig1537	"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest"	stress response	P	Proteasome subunit beta type-1 (EC 3.4.25.1) (Macropain subunit C5) (Multicatalytic endopeptidase complex subunit C5) (Proteasome component C5) (Proteasome gamma chain)
+Haliotis_kam_contig5602	"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest"	stress response	P	26S proteasome non-ATPase regulatory subunit 13 (26S proteasome regulatory subunit RPN9) (26S proteasome regulatory subunit S11) (26S proteasome regulatory subunit p40.5)
+Haliotis_kam_contig5900	"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest"	stress response	P	Proteasome subunit beta type-2 (EC 3.4.25.1) (Macropain subunit C7-I) (Multicatalytic endopeptidase complex subunit C7-I) (Proteasome component C7-I)
+Haliotis_kam_contig7700	"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest"	stress response	P	26S proteasome non-ATPase regulatory subunit 10 (26S proteasome regulatory subunit p28) (Gankyrin) (p28(GANK))
+Haliotis_kam_contig1293	response to oxidative stress	stress response	P	Protein PLANT CADMIUM RESISTANCE 2 (AtPCR2)
+Haliotis_kam_contig1532	response to oxidative stress	stress response	P	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6 (Complex I-B14) (CI-B14) (NADH-ubiquinone oxidoreductase B14 subunit)
+Haliotis_kam_contig1693	response to oxidative stress	stress response	P	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4 (Complex I-B15) (CI-B15) (NADH-ubiquinone oxidoreductase B15 subunit)
+Haliotis_kam_contig2049	response to oxidative stress	stress response	P	Peroxidase (DmPO) (EC 1.11.1.7) (Chorion peroxidase)
+Haliotis_kam_contig3924	response to oxidative stress	stress response	P	Peroxidase (DmPO) (EC 1.11.1.7) (Chorion peroxidase)
+Haliotis_kam_contig3963	response to oxidative stress	stress response	P	Peroxidase (DmPO) (EC 1.11.1.7) (Chorion peroxidase)
+Haliotis_kam_contig3987	response to oxidative stress	stress response	P	"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial (EC 1.6.5.3) (EC 1.6.99.3) (Complex I-23kD) (CI-23kD) (NADH-ubiquinone oxidoreductase 23 kDa subunit)"
+Haliotis_kam_contig4342	response to oxidative stress	stress response	P	Peroxiredoxin-2 (EC 1.11.1.15) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1)
+Haliotis_kam_contig583	response to oxidative stress	stress response	P	
+Haliotis_kam_contig6298	response to oxidative stress	stress response	P	Selenoprotein Pb (zSelPb)
+Haliotis_kam_contig6404	response to oxidative stress	stress response	P	Peroxiredoxin-6 (EC 1.11.1.15) (1-Cys peroxiredoxin) (1-Cys PRX) (24 kDa protein) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.-) (Antioxidant protein 2) (Liver 2D page spot 40) (Non-selenium glutathione peroxidase) (NSGPx) (EC 1.11.1.9) (Red blood cells page spot 12)
+Haliotis_kam_contig674	response to oxidative stress	stress response	P	Proteasome subunit beta type-5 (EC 3.4.25.1) (Macropain epsilon chain) (Multicatalytic endopeptidase complex epsilon chain) (Proteasome chain 6) (Proteasome epsilon chain) (Proteasome subunit X)
+Haliotis_kam_contig6762	response to oxidative stress	stress response	P	Peroxiredoxin-6 (EC 1.11.1.15) (1-Cys peroxiredoxin) (1-Cys PRX) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.-) (Antioxidant protein 2) (Ciliary body glutathione peroxidase) (Non-selenium glutathione peroxidase) (NSGPx) (EC 1.11.1.9) (PHGPx)
+Haliotis_kam_contig7454	response to oxidative stress	stress response	P	Selenoprotein Pb (zSelPb)
+Haliotis_kam_contig8568	response to oxidative stress	stress response	P	"Cytochrome c peroxidase, mitochondrial (CCP) (EC 1.11.1.5)"
+Haliotis_kam_contig1478	mitotic cell cycle G2/M transition DNA damage checkpoint	stress response	P	Nibrin (Cell cycle regulatory protein p95) (Nijmegen breakage syndrome protein 1)
+Haliotis_kam_contig6877	mitotic cell cycle G2/M transition DNA damage checkpoint	stress response	P	Fructose-bisphosphate aldolase (EC 4.1.2.13)
+Haliotis_kam_contig4083	JNK cascade	stress response	P	Ras-like GTP-binding protein Rho1
+Haliotis_kam_contig2006	blood coagulation	stress response	P	"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (PI3-kinase subunit alpha) (PI3K-alpha) (PI3Kalpha) (PtdIns-3-kinase subunit alpha) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha) (PtdIns-3-kinase subunit p110-alpha) (p110alpha) (Phosphoinositide-3-kinase catalytic alpha polypeptide) (Serine/threonine protein kinase PIK3CA) (EC 2.7.11.1)"
+Haliotis_kam_contig8539	cellular response to starvation	stress response	P	"Myosin-13 (Myosin heavy chain 13) (Myosin heavy chain, skeletal muscle, extraocular) (MyHC-eo)"
+Haliotis_kam_contig4070	response to heat	stress response	P	Translation initiation factor eIF-2B subunit alpha (eIF-2B GDP-GTP exchange factor subunit alpha)
+Haliotis_kam_contig5604	response to heat	stress response	P	Translation initiation factor eIF-2B subunit epsilon (eIF-2B GDP-GTP exchange factor subunit epsilon)
+Haliotis_kam_contig639	response to heat	stress response	P	Heat shock protein 81-3 (HSP81-3) (Gravity-specific protein GSC 381)
+Haliotis_kam_contig6060	response to cold	stress response	P	Endoplasmin homolog (Glucose-regulated protein 94 homolog) (GRP-94 homolog) (HSP90-like protein 7) (Protein SHEPHERD)
+Haliotis_kam_contig6060	response to water deprivation	stress response	P	Endoplasmin homolog (Glucose-regulated protein 94 homolog) (GRP-94 homolog) (HSP90-like protein 7) (Protein SHEPHERD)
+Haliotis_kam_contig639	response to water deprivation	stress response	P	Heat shock protein 81-3 (HSP81-3) (Gravity-specific protein GSC 381)
+Haliotis_kam_contig2931	response to wounding	stress response	P	Eukaryotic translation initiation factor 5A-2 (eIF-5A-2)
+Haliotis_kam_contig168	response to salt stress	stress response	P	"Malate dehydrogenase, cytoplasmic (EC 1.1.1.37) (PP37)"
+Haliotis_kam_contig2627	response to salt stress	stress response	P	Tubulin alpha-6 chain
+Haliotis_kam_contig2897	response to salt stress	stress response	P	Superoxide dismutase [Cu-Zn] 2 (EC 1.15.1.1)
+Haliotis_kam_contig6060	response to salt stress	stress response	P	Endoplasmin homolog (Glucose-regulated protein 94 homolog) (GRP-94 homolog) (HSP90-like protein 7) (Protein SHEPHERD)
+Haliotis_kam_contig639	response to salt stress	stress response	P	Heat shock protein 81-3 (HSP81-3) (Gravity-specific protein GSC 381)
+Haliotis_kam_contig6707	response to salt stress	stress response	P	Aconitate hydratase 1 (Aconitase 1) (EC 4.2.1.3) (Citrate hydro-lyase 1)
+Haliotis_kam_contig5662	"defense response to fungus, incompatible interaction"	stress response	P	
+Haliotis_kam_contig61	regulation of cellular defense response	stress response	P	Fucolectin-1
+Haliotis_kam_contig639	heat acclimation	stress response	P	Heat shock protein 81-3 (HSP81-3) (Gravity-specific protein GSC 381)
+Haliotis_kam_contig1335	regulation of translational initiation by eIF2 alpha phosphorylation	stress response	P	Protein lethal(2)essential for life (Protein Efl21)
+Haliotis_kam_contig1767	macroautophagy	stress response	P	Sequestosome-1 (Protein kinase C-zeta-interacting protein) (PKC-zeta-interacting protein) (Ubiquitin-binding protein p62)
+Haliotis_kam_contig2165	macroautophagy	stress response	P	Sequestosome-1 (Protein kinase C-zeta-interacting protein) (PKC-zeta-interacting protein) (Ubiquitin-binding protein p62)
+Haliotis_kam_contig4523	macroautophagy	stress response	P	Sequestosome-1 (Protein kinase C-zeta-interacting protein) (PKC-zeta-interacting protein) (Ubiquitin-binding protein p62)
+Haliotis_kam_contig5767	macroautophagy	stress response	P	Sequestosome-1 (Ubiquitin-binding protein p62)
+Haliotis_kam_contig66	macroautophagy	stress response	P	Sequestosome-1 (Protein kinase C-zeta-interacting protein) (PKC-zeta-interacting protein) (Ubiquitin-binding protein p62)
+Haliotis_kam_contig1835	bypass DNA synthesis	stress response	P	Proliferating cell nuclear antigen (PCNA) (Cyclin)
+Haliotis_kam_contig3115	bypass DNA synthesis	stress response	P	Proliferating cell nuclear antigen (PCNA) (Cyclin)
+Haliotis_kam_contig156	platelet activation	stress response	P	Collagen alpha-1(III) chain
+Haliotis_kam_contig2006	platelet activation	stress response	P	"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (PI3-kinase subunit alpha) (PI3K-alpha) (PI3Kalpha) (PtdIns-3-kinase subunit alpha) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha) (PtdIns-3-kinase subunit p110-alpha) (p110alpha) (Phosphoinositide-3-kinase catalytic alpha polypeptide) (Serine/threonine protein kinase PIK3CA) (EC 2.7.11.1)"
+Haliotis_kam_contig7764	platelet activation	stress response	P	Collagen alpha-1(III) chain
+Haliotis_kam_contig4342	positive regulation of blood coagulation	stress response	P	Peroxiredoxin-2 (EC 1.11.1.15) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1)
+Haliotis_kam_contig1478	"DNA damage response, signal transduction by p53 class mediator"	stress response	P	Nibrin (Cell cycle regulatory protein p95) (Nijmegen breakage syndrome protein 1)
+Haliotis_kam_contig1816	sorocarp development	stress response	P	SCF ubiquitin ligase complex protein SKP1a (Glycoprotein FP21 isoform A) [Cleaved into: SCF ubiquitin ligase complex protein SKP1a(4-162); SCF ubiquitin ligase complex protein SKP1a(6-162)]
+Haliotis_kam_contig8409	sorocarp development	stress response	P	SCF ubiquitin ligase complex protein SKP1b (Glycoprotein FP21 isoform B) [Cleaved into: SCF ubiquitin ligase complex protein SKP1b(4-162); SCF ubiquitin ligase complex protein SKP1b(6-162)]
+Haliotis_kam_contig5325	endoplasmic reticulum unfolded protein response	stress response	P	Protein disulfide-isomerase 2 (EC 5.3.4.1) (PDI 1) (Prolyl 4-hydroxylase subunit beta-2)
+Haliotis_kam_contig4070	negative regulation of translational initiation in response to stress	stress response	P	Translation initiation factor eIF-2B subunit alpha (eIF-2B GDP-GTP exchange factor subunit alpha)
+Haliotis_kam_contig4374	cellular response to stress	stress response	P	Putative voltage-gated potassium channel subunit beta (K(+) channel subunit beta)
+Haliotis_kam_contig8402	cellular response to amino acid starvation	stress response	P	Death-associated protein 1 (DAP-1)
+Haliotis_kam_contig2936	cellular response to oxidative stress	stress response	P	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)
+Haliotis_kam_contig4342	cellular response to oxidative stress	stress response	P	Peroxiredoxin-2 (EC 1.11.1.15) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1)
+Haliotis_kam_contig2244	cellular response to heat	stress response	P	Heat shock protein 90 homolog
+Haliotis_kam_contig4014	cellular response to heat	stress response	P	Centrin-1 (Caltractin isoform 2)
+Haliotis_kam_contig5418	cellular response to reactive oxygen species	stress response	P	Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)
+Haliotis_kam_contig7487	response to endoplasmic reticulum stress	stress response	P	Protein disulfide-isomerase 2-3 (AtPDIL2-3) (EC 5.3.4.1) (Protein disulfide-isomerase 5-2) (AtPDIL5-2) (Protein disulfide-isomerase 9) (PDI9)
+Haliotis_kam_contig4083	melanization defense response	stress response	P	Ras-like GTP-binding protein Rho1
+Haliotis_kam_contig156	wound healing	stress response	P	Collagen alpha-1(III) chain
+Haliotis_kam_contig4083	wound healing	stress response	P	Ras-like GTP-binding protein Rho1
+Haliotis_kam_contig5561	wound healing	stress response	P	"Myosin regulatory light chain sqh (Myosin regulatory light chain, nonmuscle) (MRLC-C) (Protein spaghetti-squash)"
+Haliotis_kam_contig7764	wound healing	stress response	P	Collagen alpha-1(III) chain
+Haliotis_kam_contig2010	natural killer cell mediated cytotoxicity	stress response	P	CCAAT/enhancer-binding protein gamma (C/EBP gamma) (Granulocyte colony-stimulating factor promoter element 1-binding protein) (GPE1-BP) (GPE1-binding protein) (Immunoglobulin enhancer-binding protein 1) (IG/EBP-1)
+Haliotis_kam_contig7655	response to starvation	stress response	P	"Short-chain specific acyl-CoA dehydrogenase, mitochondrial (SCAD) (EC 1.3.8.1) (Butyryl-CoA dehydrogenase)"
+Haliotis_kam_contig2169	defense response to bacterium	stress response	P	"Lysozyme c-1 (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase)"
+Haliotis_kam_contig2897	defense response to bacterium	stress response	P	Superoxide dismutase [Cu-Zn] 2 (EC 1.15.1.1)
+Haliotis_kam_contig2931	defense response to bacterium	stress response	P	Eukaryotic translation initiation factor 5A-2 (eIF-5A-2)
+Haliotis_kam_contig366	defense response to bacterium	stress response	P	"Lysozyme 3 (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase 3) (cv-lysozyme 3)"
+Haliotis_kam_contig5418	defense response to bacterium	stress response	P	Reactive oxygen species modulator 1 (ROS modulator 1) (Protein MGR2 homolog)
+Haliotis_kam_contig2049	hydrogen peroxide catabolic process	stress response	P	Peroxidase (DmPO) (EC 1.11.1.7) (Chorion peroxidase)
+Haliotis_kam_contig3924	hydrogen peroxide catabolic process	stress response	P	Peroxidase (DmPO) (EC 1.11.1.7) (Chorion peroxidase)
+Haliotis_kam_contig3963	hydrogen peroxide catabolic process	stress response	P	Peroxidase (DmPO) (EC 1.11.1.7) (Chorion peroxidase)
+Haliotis_kam_contig4342	hydrogen peroxide catabolic process	stress response	P	Peroxiredoxin-2 (EC 1.11.1.15) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1)
+Haliotis_kam_contig6404	hydrogen peroxide catabolic process	stress response	P	Peroxiredoxin-6 (EC 1.11.1.15) (1-Cys peroxiredoxin) (1-Cys PRX) (24 kDa protein) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.-) (Antioxidant protein 2) (Liver 2D page spot 40) (Non-selenium glutathione peroxidase) (NSGPx) (EC 1.11.1.9) (Red blood cells page spot 12)
+Haliotis_kam_contig535	"DNA damage response, signal transduction by p53 class mediator resulting in induction of apoptosis"	stress response	P	Nuclear protein 1 (Candidate of metastasis 1) (Protein p8)
+Haliotis_kam_contig2661	"positive regulation of DNA damage response, signal transduction by p53 class mediator"	stress response	P	Eukaryotic translation elongation factor 1 epsilon-1 (Aminoacyl tRNA synthetase complex-interacting multifunctional protein 3) (Elongation factor p18) (Multisynthase complex auxiliary component p18)
+Haliotis_kam_contig7700	"negative regulation of DNA damage response, signal transduction by p53 class mediator"	stress response	P	26S proteasome non-ATPase regulatory subunit 10 (26S proteasome regulatory subunit p28) (Gankyrin) (p28(GANK))
+Haliotis_kam_contig5728	regulation of translational initiation in response to stress	stress response	P	Eukaryotic translation initiation factor 2 subunit 1 (Eukaryotic translation initiation factor 2 subunit alpha) (eIF-2-alpha) (eIF-2A) (eIF-2alpha)
+Haliotis_kam_contig4929	innate immune response	stress response	P	DNA-directed RNA polymerase III subunit RPC3 (RNA polymerase III subunit C3) (DNA-directed RNA polymerase III subunit C)
+Haliotis_kam_contig5564	innate immune response	stress response	P	Bcl-2-like protein 1 (Bcl2-L-1) (Apoptosis regulator Bcl-X)
+Haliotis_kam_contig61	regulation of innate immune response	stress response	P	Fucolectin-1
+Haliotis_kam_contig4929	positive regulation of innate immune response	stress response	P	DNA-directed RNA polymerase III subunit RPC3 (RNA polymerase III subunit C3) (DNA-directed RNA polymerase III subunit C)
+Haliotis_kam_contig2010	positive regulation of DNA repair	stress response	P	CCAAT/enhancer-binding protein gamma (C/EBP gamma) (Granulocyte colony-stimulating factor promoter element 1-binding protein) (GPE1-BP) (GPE1-binding protein) (Immunoglobulin enhancer-binding protein 1) (IG/EBP-1)
+Haliotis_kam_contig3969	active induction of host immune response by virus	stress response	P	"ADP/ATP translocase 3 (ADP,ATP carrier protein 3) (ADP,ATP carrier protein, isoform T2) (ANT 2) (Adenine nucleotide translocator 3) (ANT 3) (Solute carrier family 25 member 6)"
+Haliotis_kam_contig1164	response to axon injury	stress response	P	Neuroendocrine convertase 1 (NEC 1) (EC 3.4.21.93) (Prohormone convertase 1) (Proprotein convertase 1) (PC1)
+Haliotis_kam_contig1099	regulation of inflammatory response	stress response	P	N-lysine methyltransferase SETD6 (EC 2.1.1.-) (SET domain-containing protein 6)
+Haliotis_kam_contig7314	defense response to Gram-negative bacterium	stress response	P	Apoptosis 2 inhibitor (IAP homolog A) (IAP-like protein) (ILP) (dILP) (Inhibitor of apoptosis 2) (dIAP2)
+Haliotis_kam_contig7891	defense response to Gram-negative bacterium	stress response	P	Apoptosis 2 inhibitor (IAP homolog A) (IAP-like protein) (ILP) (dILP) (Inhibitor of apoptosis 2) (dIAP2)
+Haliotis_kam_contig6979	defense response to virus	stress response	P	"Integrin alpha-X (CD11 antigen-like family member C) (Leukocyte adhesion glycoprotein p150,95 alpha chain) (Leukocyte adhesion receptor p150,95) (CD antigen CD11c)"
