@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Haliotis_crac_CCCEcombined.fastq
+FAIL	Per base sequence quality	Haliotis_crac_CCCEcombined.fastq
+FAIL	Per sequence quality scores	Haliotis_crac_CCCEcombined.fastq
+FAIL	Per base sequence content	Haliotis_crac_CCCEcombined.fastq
+FAIL	Per base GC content	Haliotis_crac_CCCEcombined.fastq
+PASS	Per sequence GC content	Haliotis_crac_CCCEcombined.fastq
+PASS	Per base N content	Haliotis_crac_CCCEcombined.fastq
+PASS	Sequence Length Distribution	Haliotis_crac_CCCEcombined.fastq
+PASS	Sequence Duplication Levels	Haliotis_crac_CCCEcombined.fastq
+PASS	Overrepresented sequences	Haliotis_crac_CCCEcombined.fastq
+FAIL	Kmer Content	Haliotis_crac_CCCEcombined.fastq
