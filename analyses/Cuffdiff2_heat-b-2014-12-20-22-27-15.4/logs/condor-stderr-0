@@ -1,0 +1,67 @@
+Input parameters:
+--FDR                    0.05
+--compatible-hits-norm   TRUE
+--min-alignment-count    10
+--nameOne                Pre
+--nameTwo                Post
+--sampleOne              2M_AGTCAA_L001_R1_001.bam,4M_AGTTCC_L001_R1_001.bam,6M_ATGTCA_L001_R1_001.bam
+--sampleTwo              6M-HS_GTGAAA_L001_R1_001.bam,4M-HS_GTCCGC_L001_R1_001.bam,2M-HS_CCGTCC_L001_R1_001.bam
+--userReference          merged_with_ref_ids.gtf
+--version                2.1.1
+
+
+Fixing annotation file merged_with_ref_ids.gtf to work with cuffdiff/cummeRbund!
+
+
+Running CDS addition
+Running /usr/local2/cufflinks-2.1.1.Linux_x86_64/cuffdiff --min-alignment-count 10 --compatible-hits-norm -o cuffdiff_out --FDR 0.05 --labels Pre,Post  -p 6 merged_with_ref_ids.gtf  2M_AGTCAA_L001_R1_001.bam,4M_AGTTCC_L001_R1_001.bam,6M_ATGTCA_L001_R1_001.bam 6M-HS_GTGAAA_L001_R1_001.bam,4M-HS_GTCCGC_L001_R1_001.bam,2M-HS_CCGTCC_L001_R1_001.bam
+Loading required package: RSQLite
+Loading required package: DBI
+Loading required package: ggplot2
+Loading required package: reshape2
+Creating database /var/lib/condor/execute/dir_7317/cuffdiff_out/cuffData.db
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/genes.fpkm_tracking
+Checking samples table...
+Populating samples table...
+Writing genes table
+Reshaping geneData table
+Recasting
+Writing geneData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/gene_exp.diff
+Writing geneExpDiffData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/promoters.diff
+Writing promoterDiffData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/isoforms.fpkm_tracking
+Checking samples table...
+OK!
+Writing isoforms table
+Reshaping isoformData table
+Recasting
+Writing isoformData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/isoform_exp.diff
+Writing isoformExpDiffData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/tss_groups.fpkm_tracking
+Checking samples table...
+OK!
+Writing TSS table
+Reshaping TSSData table
+Recasting
+Writing TSSData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/tss_group_exp.diff
+Writing TSSExpDiffData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/splicing.diff
+Writing splicingDiffData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/cds.fpkm_tracking
+Checking samples table...
+OK!
+Writing CDS table
+Reshaping CDSData table
+Recasting
+Writing CDSData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/cds_exp.diff
+Writing CDSExpDiffData table
+Reading /var/lib/condor/execute/dir_7317/cuffdiff_out/cds.diff
+Writing CDSDiffData table
+Indexing Tables...
+Warning message:
+Removed 1 rows containing missing values (geom_point). 

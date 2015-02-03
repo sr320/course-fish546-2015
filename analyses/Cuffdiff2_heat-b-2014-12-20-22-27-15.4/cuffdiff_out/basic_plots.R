@@ -1,0 +1,11 @@
+library(cummeRbund)
+cuff <- readCufflinks()
+png('../graphs/density_plot.png')
+csDensity(genes(cuff))
+dev.off()
+png("../graphs/Pre_Post_scatter_plot.png")
+csScatter(genes(cuff),"Pre","Post",smooth=T)
+dev.off()
+png("../graphs/Pre_Post_volcano_plot.png")
+csVolcano(genes(cuff),"Pre","Post");
+dev.off()

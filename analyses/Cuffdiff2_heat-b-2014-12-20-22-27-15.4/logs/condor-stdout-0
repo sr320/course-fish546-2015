@@ -1,0 +1,36 @@
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(cummeRbund)
+> cuff <- readCufflinks()
+> png('../graphs/density_plot.png')
+> csDensity(genes(cuff))
+> dev.off()
+null device 
+          1 
+> png("../graphs/Pre_Post_scatter_plot.png")
+> csScatter(genes(cuff),"Pre","Post",smooth=T)
+> dev.off()
+null device 
+          1 
+> png("../graphs/Pre_Post_volcano_plot.png")
+> csVolcano(genes(cuff),"Pre","Post");
+> dev.off()
+null device 
+          1 
+> 

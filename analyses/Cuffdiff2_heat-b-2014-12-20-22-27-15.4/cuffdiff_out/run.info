@@ -1,0 +1,5 @@
+param	value
+cmd_line	/usr/local2/cufflinks-2.1.1.Linux_x86_64/cuffdiff --min-alignment-count 10 --compatible-hits-norm -o cuffdiff_out --FDR 0.05 --labels Pre,Post -p 6 merged_with_ref_ids.gtf 2M_AGTCAA_L001_R1_001.bam,4M_AGTTCC_L001_R1_001.bam,6M_ATGTCA_L001_R1_001.bam 6M-HS_GTGAAA_L001_R1_001.bam,4M-HS_GTCCGC_L001_R1_001.bam,2M-HS_CCGTCC_L001_R1_001.bam 
+version	2.1.1
+SVN_revision	4046M
+boost_version	104900

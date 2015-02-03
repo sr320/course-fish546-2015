@@ -1,0 +1,38 @@
+[porklock] [arguments]  (get --user sr320 --source /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf --config /condor01/scratch/sr320/Cuffdiff2_heat-b-2014-12-20-15-27-18.939/logs/irods-config -m ipc-execution-id,73778d15-9e83-4761-8224-02325675b386,UUID -m ipc-analysis-id,01659f91-435e-4219-a528-1d82e8e75cc6,UUID)
+[porklock] [options]  {:user sr320, :source /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf, :destination ., :config /condor01/scratch/sr320/Cuffdiff2_heat-b-2014-12-20-15-27-18.939/logs/irods-config, :meta [(ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID) (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID)], :help false}
+[porklock] [remnants]  []
+================================================================================ 
+env: 
+{"irodsAuthFileName" "./.irods/.irodsA",
+ "irodsEnvFile" "./.irods/.irodsEnv"}
+ 
+command:
+/usr/local2/icommands/iinit
+ 
+stdout: 
+Enter your current iRODS password:
+
+[porklock]  Metadata tuples for  /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf  are   ((ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID) (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID))
+[porklock]  Size of tuple  (ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID)  is  3
+[porklock]  Might be adding metadata to  /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf   (ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID)
+[porklock]  AVU?  /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf ()
+[porklock]  Adding metadata  ipc-execution-id   73778d15-9e83-4761-8224-02325675b386   /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf
+[porklock]  Size of tuple  (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID)  is  3
+[porklock]  Might be adding metadata to  /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf   (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID)
+[porklock]  AVU?  /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf ()
+[porklock]  Adding metadata  ipc-analysis-id   01659f91-435e-4219-a528-1d82e8e75cc6   /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf
+================================================================================ 
+env: 
+{"clientUserName" "sr320",
+ "irodsAuthFileName" "./.irods/.irodsA",
+ "irodsEnvFile" "./.irods/.irodsEnv"}
+ 
+command:
+/usr/local2/icommands/iget -f -P /iplant/home/sr320/BS-heat/Cuffmerge2_heat-2014-12-20-19-14-34.8/cuffmerge_out/merged_with_ref_ids.gtf ./
+ 
+stdout: 
+0/1 -  0.00% of files done   0.000/131.030 MB -  0.00% of file sizes done
+Processing merged_with_ref_ids.gtf - 131.030 MB   2014-12-20.15:27:40
+merged_with_ref_ids.gtf - 26.206/131.030 MB - 20.00% done   2014-12-20.15:27:41
+merged_with_ref_ids.gtf - 131.030/131.030 MB - 100.00% done   2014-12-20.15:27:42
+

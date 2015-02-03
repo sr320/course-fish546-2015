@@ -1,0 +1,38 @@
+[porklock] [arguments]  (get --user sr320 --source /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam --config /condor01/scratch/sr320/Cuffdiff2_heat-b-2014-12-20-15-27-18.939/logs/irods-config -m ipc-execution-id,73778d15-9e83-4761-8224-02325675b386,UUID -m ipc-analysis-id,01659f91-435e-4219-a528-1d82e8e75cc6,UUID)
+[porklock] [options]  {:user sr320, :source /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam, :destination ., :config /condor01/scratch/sr320/Cuffdiff2_heat-b-2014-12-20-15-27-18.939/logs/irods-config, :meta [(ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID) (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID)], :help false}
+[porklock] [remnants]  []
+================================================================================ 
+env: 
+{"irodsAuthFileName" "./.irods/.irodsA",
+ "irodsEnvFile" "./.irods/.irodsEnv"}
+ 
+command:
+/usr/local2/icommands/iinit
+ 
+stdout: 
+Enter your current iRODS password:
+
+[porklock]  Metadata tuples for  /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam  are   ((ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID) (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID))
+[porklock]  Size of tuple  (ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID)  is  3
+[porklock]  Might be adding metadata to  /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam   (ipc-execution-id 73778d15-9e83-4761-8224-02325675b386 UUID)
+[porklock]  AVU?  /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam ()
+[porklock]  Adding metadata  ipc-execution-id   73778d15-9e83-4761-8224-02325675b386   /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam
+[porklock]  Size of tuple  (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID)  is  3
+[porklock]  Might be adding metadata to  /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam   (ipc-analysis-id 01659f91-435e-4219-a528-1d82e8e75cc6 UUID)
+[porklock]  AVU?  /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam ({:unit UUID, :value 01659f91-435e-4219-a528-1d82e8e75cc6, :attr ipc-analysis-id})
+================================================================================ 
+env: 
+{"clientUserName" "sr320",
+ "irodsAuthFileName" "./.irods/.irodsA",
+ "irodsEnvFile" "./.irods/.irodsEnv"}
+ 
+command:
+/usr/local2/icommands/iget -f -P /iplant/home/sr320/BS-heat/TopHat2-SE_analysis_heat-b-2014-12-19-15-09-00.4/bam/6M-HS_GTGAAA_L001_R1_001.bam ./
+ 
+stdout: 
+0/1 -  0.00% of files done   0.000/643.427 MB -  0.00% of file sizes done
+Processing 6M-HS_GTGAAA_L001_R1_001.bam - 643.427 MB   2014-12-20.15:29:00
+6M-HS_GTGAAA_L001_R1_001.bam - 200.856/643.427 MB - 31.22% done   2014-12-20.15:29:05
+6M-HS_GTGAAA_L001_R1_001.bam - 201.071/643.427 MB - 31.25% done   2014-12-20.15:29:05
+6M-HS_GTGAAA_L001_R1_001.bam - 643.427/643.427 MB - 100.00% done   2014-12-20.15:29:15
+
