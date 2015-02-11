@@ -1,1 +1,5 @@
-Olurida_v3.fasta
+Olurida_v3.fasta./analyses/sw-inter_ensemble.tab
+./analyses/sw-inter_ensemble_CGI.tab
+./data/fa/Crassostrea_gigas.GCA_000297895.1.22.dna_sm.genome.fa
+./data/fa/Crassostrea_gigas.GCA_000297895.1.22.dna_sm.genome.fa.gz
+./data/fa/Olurida_v3.fasta
