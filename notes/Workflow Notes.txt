@@ -1,0 +1,50 @@
+# Workflow Notes
+
+Will
+
+* for final- leave out tunnel (user specific)
+* make more generic (can make diff version as current one is helpful for you.)
+* tip can use `\` for line breaks in code - makes easier to read.
+* why not just embed screenshots?
+* Graphs still need splitting out into 3 aspects
+* Links at bottom broken
+* Could simplyfy with categories 1) Blast - 2) Gene Ontology Info 3) Visualization.
+
+---
+Jake 
+
+* Needs to be less narrative - narrative is for **Product**.
+*  Workflow should be ipynb notebooks you link to with instructions, comments, and without personal commentary.
+* Include a readme to indicate a series of notebooks
+* Should be that persons could replicate your work - you can assume said persons can install software.
+* Lose "Piecemeal" etc
+
+Sam 
+
+* Give us a Title
+* Comment first section - format better, maybe markdown code. - are these in GitHub?
+* Whats a manifest file?
+
+Jay
+
+* links broken
+* looking at http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/Ahya_blast_anno.ipynb
+* Top has formatting issues
+* get rid of `Selenocysteine (U) at position 123 replaced by X` by using `2>`.
+* explain what uniprot_sprot is
+* ends with blast - not GO information -
+* Create single readme to document workflow is in multiple ipynbs. 
+* Provide context summary for http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/CpG_ratio_Ahya_temp.ipynb
+* Use common naming system for nbs
+* Decide on species.
+* Duplication with http://nbviewer.ipython.org/github/jldimond/fish546-2015/blob/master/nb/CpG_ratio_graph_Ahya2.ipynb
+* Need come commenting of code. 
+* 
+
+
+
+
+
+QUIZ
+Can someone replicate 
+What is the test to make sure it was done correctly
